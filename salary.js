@@ -1,0 +1,1 @@
+let net salary = basic salary + benefits
